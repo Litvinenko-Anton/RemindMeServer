@@ -1,0 +1,9 @@
+
+PostgreSQL
+PostgreSQL JDBC Driver
+
+Spring Core
+Spring Data JPA
+Spring Web MVC
+Java Servlet API
+Hibernate JPA
