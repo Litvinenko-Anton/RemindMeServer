@@ -7,3 +7,4 @@ Spring Data JPA
 Spring Web MVC
 Java Servlet API
 Hibernate JPA
+Apache Commons DBCP
